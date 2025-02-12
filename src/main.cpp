@@ -36,6 +36,8 @@ public:
 };
 
 int main() {
+
+    cout<<"Restaurant Demo"<<endl;
     // Using constructor
     Restaurant favPlace("Central Deli", 4);
     favPlace.print();
